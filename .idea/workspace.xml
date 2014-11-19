@@ -30,16 +30,24 @@
       <file leaf-file-name="fizzbuzzTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/fizzbuzzTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5927835" vertical-offset="0" max-vertical-offset="582">
-              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.7938144" vertical-offset="138" max-vertical-offset="720">
+              <caret line="40" column="54" selection-start-line="40" selection-start-column="54" selection-end-line="40" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#241#242#0" expanded="true" />
-                <element signature="e#282#283#0" expanded="true" />
-                <element signature="e#332#333#0" expanded="true" />
-                <element signature="e#390#391#0" expanded="true" />
-                <element signature="e#442#443#0" expanded="true" />
-                <element signature="e#501#502#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#283#284#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#391#392#0" expanded="true" />
+                <element signature="e#443#444#0" expanded="true" />
+                <element signature="e#502#503#0" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#608#609#0" expanded="true" />
+                <element signature="e#660#661#0" expanded="true" />
+                <element signature="e#718#719#0" expanded="true" />
+                <element signature="e#769#770#0" expanded="true" />
+                <element signature="e#830#831#0" expanded="true" />
+                <element signature="e#884#885#0" expanded="true" />
+                <element signature="e#945#946#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -48,11 +56,15 @@
       <file leaf-file-name="Fizzbuzz.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Fizzbuzz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
                 <element signature="e#126#127#0" expanded="true" />
                 <element signature="e#166#167#0" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#258#259#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -344,8 +356,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
-    <option name="y" value="62" />
+    <option name="x" value="24" />
+    <option name="y" value="22" />
     <option name="width" value="1260" />
     <option name="height" value="679" />
   </component>
@@ -656,7 +668,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="62" width="1260" height="679" extended-state="0" />
+    <frame x="24" y="22" width="1260" height="679" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -708,27 +720,39 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/Fizzbuzz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
             <element signature="e#126#127#0" expanded="true" />
             <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/fizzbuzzTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5927835" vertical-offset="0" max-vertical-offset="582">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.7938144" vertical-offset="138" max-vertical-offset="720">
+          <caret line="40" column="54" selection-start-line="40" selection-start-column="54" selection-end-line="40" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+            <element signature="e#718#719#0" expanded="true" />
+            <element signature="e#769#770#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#884#885#0" expanded="true" />
+            <element signature="e#945#946#0" expanded="true" />
           </folding>
         </state>
       </provider>
