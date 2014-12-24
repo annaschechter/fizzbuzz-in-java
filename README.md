@@ -1,6 +1,7 @@
 Fizzbuzz in Java
 ================
 Fizzbuzz in Java is one of the Makers Academy week10 exercises. In this week we were introduced to a different language every day and Tuesday was Java day.
+Specification
 -------------
 Fizzbuzz is a popular coding kata and also a game. The rules of Fizzbuzz are as follows:
 * the game is played for numbers from 1 to 100
